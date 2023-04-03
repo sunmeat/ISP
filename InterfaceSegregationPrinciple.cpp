@@ -128,3 +128,6 @@ ISwimmable и ISpeakable, которые описывают только те ф
 что снижает связность между классами и делает код более гибким
 и расширяемым.
 */
+
+// BAD EXAMPLE: https://gist.github.com/sunmeat/bc829ddad45261695fcb9a1c189921cb
+// GOOD EXAMPLE: https://gist.github.com/sunmeat/6eacb206150ced7ea786cbf7ba792c67
