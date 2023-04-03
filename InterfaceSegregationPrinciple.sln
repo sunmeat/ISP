@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "InterfaceSegregationPrinciple", "InterfaceSegregationPrinciple.vcxproj", "{10854288-B61F-4ACA-B09F-82930D8AB9FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10854288-B61F-4ACA-B09F-82930D8AB9FF}.Debug|x64.ActiveCfg = Debug|x64
+		{10854288-B61F-4ACA-B09F-82930D8AB9FF}.Debug|x64.Build.0 = Debug|x64
+		{10854288-B61F-4ACA-B09F-82930D8AB9FF}.Debug|x86.ActiveCfg = Debug|Win32
+		{10854288-B61F-4ACA-B09F-82930D8AB9FF}.Debug|x86.Build.0 = Debug|Win32
+		{10854288-B61F-4ACA-B09F-82930D8AB9FF}.Release|x64.ActiveCfg = Release|x64
+		{10854288-B61F-4ACA-B09F-82930D8AB9FF}.Release|x64.Build.0 = Release|x64
+		{10854288-B61F-4ACA-B09F-82930D8AB9FF}.Release|x86.ActiveCfg = Release|Win32
+		{10854288-B61F-4ACA-B09F-82930D8AB9FF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C60608F-78AF-41BB-A97F-77D591910333}
+	EndGlobalSection
+EndGlobal
